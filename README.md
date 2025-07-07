@@ -2,7 +2,7 @@
 
 Este repositório contém um plano de estudos prático e progressivo para aprender **IA generativa usando Azure**, com foco em:
 
-- Azure AI Studio (Foundry)
+- Azure AI Foundry
 - Azure AI Search (RAG)
 - CosmosDB Vector Search
 - Modelos LLMs/SLMs (ex: GPT, Phi-3, Mistral)
